@@ -1,1 +1,1 @@
-# ForgeRock Identity Cloud: demo configuration repo
+# ForgeRock Identity Cloud: Demonstration Configuration Repository
